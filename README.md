@@ -1,51 +1,71 @@
-🚗 Car Booking System - Project Report
-📌 1. System Introduction
-🏷 Overview
-The Car Booking System (CBS) is designed to streamline vehicle management and simplify customer reservations. The system supports two main user roles:
+# 🚗 Car Booking System - Project Report  
 
-👤 Customers:
-✅ Book cars online
-✅ View, modify, or cancel reservations
-✅ Manage profiles
+## 📌 1. System Introduction  
 
-👨‍💼 Staff:
-✅ Manage car inventory
-✅ Approve and process bookings
-✅ Monitor business insights through a dashboard
+### 🏷 Overview  
+The **Car Booking System (CBS)** is designed to **streamline vehicle management** and **simplify customer reservations**. The system supports two main user roles:  
 
-👥 System Users
-🔹 Customers – Prioritized for a smooth booking experience.
-🔹 Staff – Equipped with tools to efficiently manage vehicles and reservations.
+👤 **Customers**:  
+✅ Book cars online  
+✅ View, modify, or cancel reservations  
+✅ Manage profiles  
 
-🛠️ 2. System Design
-📌 Use Case Diagram – Defines system interactions.
-📌 ERD (Entity-Relationship Diagram) – Represents database relationships.
+👨‍💼 **Staff**:  
+✅ Manage car inventory  
+✅ Approve and process bookings  
+✅ Monitor business insights through a dashboard  
 
-💻 3. Development Technologies
-🏗️ Aspect	🔧 Technology
-📊 UML Diagrams	Draw.io
-🗄️ Database	MySQL (phpMyAdmin)
-🎨 Frontend	Bootstrap, HTML, CSS, JavaScript
-⚙️ Backend	PHP, JSON
-☁️ Hosting	000webhost
-📂 4. Database Design
-The database consists of 7 tables managing users, bookings, and vehicle inventory.
+### 👥 System Users  
+🔹 **Customers** – Prioritized for a smooth booking experience.  
+🔹 **Staff** – Equipped with tools to efficiently manage vehicles and reservations.  
 
-🚀 5. Development Steps
-1️⃣ Requirements Gathering – Define system features.
-2️⃣ System Design – Develop ERD & diagrams.
-3️⃣ Database Setup – Create tables for users, cars, and bookings.
-4️⃣ Authentication – Implement secure login with role-based access.
-5️⃣ Customer Features – Booking, search, modification, profile management.
-6️⃣ Staff Features – Car management, booking approval, analytics.
-7️⃣ Notifications – Automated Gmail notifications for reservations.
-8️⃣ Testing – Unit, integration, and user acceptance testing.
+---
 
-🎨 6. System Interfaces
-✅ Home Page – Quick links to Contact, About, Assignments, and LinkedIn.
-✅ Authentication – Secure Registration, Login, Password Reset.
-✅ Staff Dashboard – Manage bookings, approvals, and vehicle inventory.
-✅ Customer Dashboard – Book cars, view history, and modify reservations.
+## 🛠️ 2. System Design  
 
-📌 For More Details
-For a more in-depth explanation of this system, including designs, database structure, and technical implementations, check out 'A- Individual Report!' 📄📚
+📌 **Use Case Diagram** – Defines system interactions.  
+📌 **ERD (Entity-Relationship Diagram)** – Represents database relationships.  
+
+---
+
+## 💻 3. Development Technologies  
+
+| 🏗️ Aspect | 🔧 Technology |
+|-----------|-------------|
+| 📊 **UML Diagrams** | Draw.io |
+| 🗄️ **Database** | MySQL (phpMyAdmin) |
+| 🎨 **Frontend** | Bootstrap, HTML, CSS, JavaScript |
+| ⚙️ **Backend** | PHP, JSON |
+| ☁️ **Hosting** | 000webhost |
+
+---
+
+## 📂 4. Database Design  
+The database consists of **7 tables** managing users, bookings, and vehicle inventory.  
+
+---
+
+## 🚀 5. Development Steps  
+
+1️⃣ **Requirements Gathering** – Define system features.  
+2️⃣ **System Design** – Develop ERD & diagrams.  
+3️⃣ **Database Setup** – Create tables for users, cars, and bookings.  
+4️⃣ **Authentication** – Implement secure login with role-based access.  
+5️⃣ **Customer Features** – Booking, search, modification, profile management.  
+6️⃣ **Staff Features** – Car management, booking approval, analytics.  
+7️⃣ **Notifications** – Automated Gmail notifications for reservations.  
+8️⃣ **Testing** – Unit, integration, and user acceptance testing.  
+
+---
+
+## 🎨 6. System Interfaces  
+
+✅ **Home Page** – Quick links to Contact, About, Assignments, and LinkedIn.  
+✅ **Authentication** – Secure Registration, Login, Password Reset.  
+✅ **Staff Dashboard** – Manage bookings, approvals, and vehicle inventory.  
+✅ **Customer Dashboard** – Book cars, view history, and modify reservations.  
+
+---
+
+## 📌 For More Details  
+For a more **in-depth explanation** of this system, including **designs, database structure, and technical implementations**, check out  **A- Individual Report**! 📄📚  
