@@ -1,4 +1,5 @@
 # 🚗 Car Booking System - Project Report  
+![Car Animation](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)  
 
 ## 📌 1. System Introduction  
 
